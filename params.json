@@ -1,0 +1,1 @@
+{"name":"xFramework","tagline":"","body":"> _Всё следует упрощать до тех пор, пока это возможно, но не более того. (Эйнштейн)_\r\n\r\n## Идеология\r\n1. Полиморфизм. Наследование. Инкапсуляция. Никакой магии.\r\n2. Никаких конфигов. Нигде.\r\n3. Максимум подсказок в IDE (PHPStorm).","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
